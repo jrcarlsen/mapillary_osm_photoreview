@@ -4,6 +4,14 @@ A web application to review uploaded Mapillary photos in a region for OpenStreet
 This application is NOT ready for use yet.
 
 # Installation
-## Dependencies
-pip install python-social-auth
-pip install tornado
+Install the application
+```bash
+$ git clone https://github.com/jrcarlsen/mapillary_osm_photoreview
+```
+
+Install dependencies
+```bash
+$ pip install python-social-auth
+$ pip install tornado
+$ pip install mapillary
+```
